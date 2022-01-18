@@ -8,3 +8,5 @@ imkanımız bulunuyor. Gelecekte bu uygulamayı ürün çeşitliliğini artırar
 detayları ekleyerek sipariş verme uygulamaları veya restoranlarda kullanabiliriz. 
 Ayrıca vücut bilgileri girilerek kişiye özel öğün önerisi de yapılabilir, bunun 
 yapılabilmesi için büyük veriden yararlanabiliriz.
+
+![AUGFOOD_Afis](https://user-images.githubusercontent.com/69669698/150024358-4e4aeafc-9c08-4805-b91e-9b624942ebd2.jpg)
