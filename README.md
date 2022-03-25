@@ -3,4 +3,5 @@
 
 Arkadaşlarımla birlikte yaptığımız AUGFOOD projemizde amacımız yemek siparişi verirken yemeği 3D şekilde gerçek boyutları ve gerçek görüntüsüyle göstermektir. AUGFOOD projemiz Unity tabanlı çalışan bir Artırılmış Gerçeklik uygulamasıdır. Uygulamamızın içinde sipariş verilecek yiyecekler üç boyutlu şekilde kullanıcıya sunulmaktadır.
 
-
+https://github.com/Halil-ibrahim-altuntas \
+https://github.com/FurkanKtk
